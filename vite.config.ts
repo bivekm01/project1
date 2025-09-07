@@ -5,7 +5,7 @@
  export default defineConfig({
    plugins: [react()],
    // YAHAN PAR ADD KAREIN
-   base: '/attendance-website/', // <-- Apne GitHub repository ka naam yahan likhein
+   base: '/project1/', // <-- Apne GitHub repository ka naam yahan likhein
 
    resolve: {
      extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
